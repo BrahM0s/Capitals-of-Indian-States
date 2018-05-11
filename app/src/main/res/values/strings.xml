@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">CapitalsOfIndianStates</string>
+    
+    <string-array name="states">
+        <item>Select the State</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>National Capital Territory of Delhi</item>
+        <item>Goa</item>
+        <item>Gujrat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Puducherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+    </string-array>
+
+    <string-array name="capitals">
+        <item> </item>
+        <item>Port Blair</item>
+        <item>\Hyderabad(de jure to 2024)\nAmaravati (de facto from 2017)</item>
+        <item>Itanagar</item>
+        <item>Dispur</item>
+        <item>Patna</item>
+        <item>Chandigarh</item>>
+        <item>Naya Raipur</item>
+        <item>Silvassa</item>
+        <item>Daman</item>
+        <item>New Delhi</item>
+        <item>Panaji</item>
+        <item>Gandhinagar</item>
+        <item>Chandigarh</item>
+        <item>Shimla(Summer)\nDharamshala(Winter)</item>
+        <item>Srinagar(Summer)\nJammu(Winter)</item>
+        <item>Ranchi</item>
+        <item>Bengaluru</item>
+        <item>Thiruvananthapuram</item>
+        <item>Kavaratti</item>
+        <item>Bhopal</item>
+        <item>Mumbai\nNagpur(2nd Capital)</item>
+        <item>Imphal</item>
+        <item>Shillong</item>
+        <item>Aizawl</item>
+        <item>Kohima</item>
+        <item>Bhubaneswar</item>
+        <item>Puducherry</item>
+        <item>Chandigarh</item>
+        <item>Jaipur</item>
+        <item>Gangtok</item>
+        <item>Chennai</item>
+        <item>Hyderabad</item>
+        <item>Agartala</item>
+        <item>Lucknow</item>
+        <item>Dehradun</item>
+        <item>Kolkata</item>
+    </string-array>
+
+</resources>
